@@ -1,0 +1,14 @@
+<page>
+	<revision>
+		<id>Revision ID</id>
+		<contributor>
+			<username>author</username>
+		</contributor>
+		<comment>some comments</comment>
+		<testnest>
+			<text bytes="length" variable="after" xml:space="preserve">text value1</text>
+		</testnest>
+		<text bytes="size" xml:space="preserve">text value2</text>
+		<sha1>hash</sha1>
+	</revision>
+</page>
